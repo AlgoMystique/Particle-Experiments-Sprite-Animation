@@ -16,8 +16,8 @@ Check out the live demo [here](https://algomystique.github.io/Particle-Experimen
    ```
 2.
    ```
-    cd Particle-Experiments-Sprite-Animation
-```
+    cd Particle-Experiments-Sprite-Animation```
+   
 ## Technologies Used
 
 - **HTML5**: Basic structure of the project.
