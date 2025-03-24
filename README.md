@@ -6,7 +6,7 @@
 
 Check out the live demo [here](https://algomystique.github.io/Particle-Experiments-Sprite-Animation)
 
-![Sprite Animation](assets/animation-demo.gif)  <!-- Add your GIF here -->
+![Sprite Animation](alien.gif) 
 
 ## Installation
 
