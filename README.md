@@ -1,6 +1,6 @@
 # Cosmic Drift
 
-Cosmic Drift is a *Particle-Experiments-Sprite-Animation** developed with vanila JavaScript. It is an interactive game where a sprite animation (alien) moves through a particle field. The game allows you to click on particles to make them move, clearing a path for the alien to navigate through space. This project demonstrates sprite animation, particle effects, and interactive gameplay using JavaScript.
+Cosmic Drift is a **Particle-Experiments-Sprite-Animation** developed with vanila JavaScript. It is an interactive game where a sprite animation (alien) moves through a particle field. The game allows you to click on particles to make them move, clearing a path for the alien to navigate through space. This project demonstrates sprite animation, particle effects, and interactive gameplay using JavaScript.
 
 ## Features
 
