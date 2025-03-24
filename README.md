@@ -1,7 +1,14 @@
-# Particle-Experiments-Sprite-Animation
+# Cosmic Drift
 
-**Particle-Experiments-Sprite-Animation** is a JavaScript-based project that demonstrates the creation of sprite animation and particle effects. The animation moves a sprite through a particle field, creating dynamic motion and interactions in space. This project showcases how to control sprite movement and integrate particle systems using JavaScript.
+Cosmic Drift is a *Particle-Experiments-Sprite-Animation** developed with vanila JavaScript. It is an interactive game where a sprite animation (alien) moves through a particle field. The game allows you to click on particles to make them move, clearing a path for the alien to navigate through space. This project demonstrates sprite animation, particle effects, and interactive gameplay using JavaScript.
 
+## Features
+
+- **Interactive Gameplay**: Click on particles to move them and create a clear path for the sprite.
+- **Sprite Animation**: The alien sprite moves through space and its animation is controlled via sprite sheets.
+- **Particle System**: Create and control particles that respond to mouse clicks, making the game interactive.
+- **Dynamic Environment**: As you clear particles, the alien progresses forward.
+  
 ## Live Demo
 
 Check out the live demo [here](https://algomystique.github.io/Particle-Experiments-Sprite-Animation)
